@@ -20,4 +20,4 @@ This is the second part of a two-group work devoted to the creation of the simul
 
 ## References
 [2018 experiment](https://iopscience.iop.org/article/10.1088/1748-0221/15/01/P01036/pdf): *Study of muon pair production from positron annihilation at threshold energy*. \
-[2021 proposal](https://cds.cern.ch/record/2712394/files/SPSC-P-364.pdf): *LEMMA-TB: an experiment to measure the production of a low emittance muon beam*.\
+[2021 proposal](https://cds.cern.ch/record/2712394/files/SPSC-P-364.pdf): *LEMMA-TB: an experiment to measure the production of a low emittance muon beam*.
