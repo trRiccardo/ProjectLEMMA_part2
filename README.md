@@ -1,4 +1,4 @@
-# LEMMA project - Muon Source Monte Carlo simulation 
+# LEMMA project - Design of a positron-induced muon source experiment
 High Level Programming - University of Padova 
 
 ### Prerequisites
